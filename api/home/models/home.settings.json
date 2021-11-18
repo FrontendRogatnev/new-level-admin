@@ -17,6 +17,21 @@
     },
     "image": {
       "type": "string"
+    },
+    "address": {
+      "type": "string"
+    },
+    "contractNumber": {
+      "type": "string"
+    },
+    "agreementDate": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "coords": {
+      "type": "json"
     }
   }
 }
