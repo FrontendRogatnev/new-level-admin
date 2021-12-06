@@ -32,6 +32,9 @@
     },
     "coords": {
       "type": "json"
+    },
+    "slides": {
+      "type": "json"
     }
   }
 }
